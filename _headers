@@ -1,1 +1,2 @@
-
+/app/*
+  Permissions-Policy: document-domain=()
