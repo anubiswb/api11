@@ -1,0 +1,180 @@
+
+
+
+<table align="center" cellpadding="4" cellspacing="1" class="prices-table" width="100%">
+    <caption>
+        متوسط اسعار الذهب اليوم بمحلات الصاغة في مصر بدون مصنعية    </caption>
+    <thead>
+        <tr>
+            <th>عيار الذهب</th>
+            <th>سعر البيع</th>
+			                <th>سعر الشراء</th>
+                    </tr>
+    </thead>
+    <tbody>
+                    <tr>
+                <th>عيار 24</th>
+                <td>4269 جنيه</td>
+                                    <td>4257 جنيه</td>
+                            </tr>
+                    <tr>
+                <th>عيار 22</th>
+                <td>3913 جنيه</td>
+                                    <td>3902 جنيه</td>
+                            </tr>
+                    <tr>
+                <th>عيار 21</th>
+                <td>3735 جنيه</td>
+                                    <td>3725 جنيه</td>
+                            </tr>
+                    <tr>
+                <th>عيار 18</th>
+                <td>3201 جنيه</td>
+                                    <td>3193 جنيه</td>
+                            </tr>
+                    <tr>
+                <th>عيار 14</th>
+                <td>2490 جنيه</td>
+                                    <td>2483 جنيه</td>
+                            </tr>
+                    <tr>
+                <th>عيار 12</th>
+                <td>2134 جنيه</td>
+                                    <td>2129 جنيه</td>
+                            </tr>
+                    <tr>
+                <th>الاونصة</th>
+                <td>132767 جنيه</td>
+                                    <td>132412 جنيه</td>
+                            </tr>
+                    <tr>
+                <th>الجنيه الذهب</th>
+                <td>29880 جنيه</td>
+                                    <td>29800 جنيه</td>
+                            </tr>
+        		<tr>
+			<th>الأونصة بالدولار</th>
+			<td colspan="3"><b>2735.75</b> دولار
+		</td></tr>
+    </tbody>
+    <tfoot>
+        <tr>
+            <td colspan="3">
+                تم تحديث أسعار الذهب في مصر في <time datetime="2024-10-24T23:41:08+0300">الخميس, 24 أكتوبر, 11:41 مساءًا</time>
+            </td>
+        </tr>
+    </tfoot>
+</table>
+
+	<table align="center" cellpadding="4" cellspacing="1" class="prices-table" width="100%">
+	<caption>متوسط سعر بيع الذهب في الأيام السابقة في مصر بالجنيه المصري</caption>
+	<thead>
+		<tr>
+			<th>اليوم</th>
+			<th>ذهب 24</th>
+			<th>ذهب 22</th>
+			<th>ذهب 21</th>
+			<th>ذهب 18</th>
+			<th>الاوقية</th>
+			<th>المؤشر</th>
+		</tr>
+	</thead>
+	<tbody>
+	<tr>
+		<th align="right">الأربعاء، 23 أكتوبر</th>
+		<td>4257</td>
+		<td>3902</td>
+		<td>3725</td>
+		<td>3193</td>
+		<td>132412</td>
+		<td>⬇️</td>
+	</tr>
+	<tr>
+		<th align="right">الثلاثاء، 22 أكتوبر</th>
+		<td>4271</td>
+		<td>3915</td>
+		<td>3737</td>
+		<td>3203</td>
+		<td>132839</td>
+		<td>⬆️</td>
+	</tr>
+	<tr>
+		<th align="right">الإثنين، 21 أكتوبر</th>
+		<td>4246</td>
+		<td>3892</td>
+		<td>3715</td>
+		<td>3184</td>
+		<td>132057</td>
+		<td>⬆️</td>
+	</tr>
+	<tr>
+		<th align="right">الأحد، 20 أكتوبر</th>
+		<td>4234</td>
+		<td>3881</td>
+		<td>3705</td>
+		<td>3176</td>
+		<td>131701</td>
+		<td>⬇️</td>
+	</tr>
+	<tr>
+		<th align="right">السبت، 19 أكتوبر</th>
+		<td>4240</td>
+		<td>3887</td>
+		<td>3710</td>
+		<td>3180</td>
+		<td>131879</td>
+		<td>⬆️</td>
+	</tr>
+	<tr>
+		<th align="right">الجمعة، 18 أكتوبر</th>
+		<td>4211</td>
+		<td>3860</td>
+		<td>3685</td>
+		<td>3159</td>
+		<td>130990</td>
+		<td>⬆️</td>
+	</tr>
+	<tr>
+		<th align="right">الخميس، 17 أكتوبر</th>
+		<td>4168</td>
+		<td>3821</td>
+		<td>3647</td>
+		<td>3126</td>
+		<td>129639</td>
+		<td>⬆️</td>
+	</tr>
+	<tr>
+		<th align="right">الأربعاء، 16 أكتوبر</th>
+		<td>4137</td>
+		<td>3792</td>
+		<td>3620</td>
+		<td>3103</td>
+		<td>128680</td>
+		<td>⬆️</td>
+	</tr>
+	<tr>
+		<th align="right">الثلاثاء، 15 أكتوبر</th>
+		<td>4126</td>
+		<td>3782</td>
+		<td>3610</td>
+		<td>3094</td>
+		<td>128324</td>
+		<td>⬆️</td>
+	</tr>
+	<tr>
+		<th align="right">الإثنين، 14 أكتوبر</th>
+		<td>4103</td>
+		<td>3761</td>
+		<td>3590</td>
+		<td>3077</td>
+		<td>127613</td>
+		<td>⬇️</td>
+	</tr>
+	</tbody>
+	<tfoot>
+		<tr>
+			<td colspan="7">* سيتم توفير اسعار الذهب : البيع و الشراء قريبا</td>
+		</tr>
+	</tfoot>
+	</table>
+
