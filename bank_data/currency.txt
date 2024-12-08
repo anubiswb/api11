@@ -201,6 +201,17 @@
                                             71.0601
                                         </td>
                                 </tr>
+                                <tr class="content-height">
+                                        <td class="column-width table-cell">
+                                            يوان صينى
+                                        </td>
+                                        <td class="column-width table-cell">
+                                            6.8990
+                                        </td>
+                                        <td class="column-width table-cell">
+                                            6.9203
+                                        </td>
+                                </tr>
                     </tbody>
                 </table>
         </div>
