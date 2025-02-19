@@ -137,6 +137,39 @@
                                 </tr>
                                 <tr class="content-height">
                                         <td class="column-width table-cell">
+                                            درهم اماراتى
+                                        </td>
+                                        <td class="column-width table-cell">
+                                            13.7588
+                                        </td>
+                                        <td class="column-width table-cell">
+                                            13.7978
+                                        </td>
+                                </tr>
+                                <tr class="content-height">
+                                        <td class="column-width table-cell">
+                                            دولار اســـترالى
+                                        </td>
+                                        <td class="column-width table-cell">
+                                            32.0669
+                                        </td>
+                                        <td class="column-width table-cell">
+                                            32.1687
+                                        </td>
+                                </tr>
+                                <tr class="content-height">
+                                        <td class="column-width table-cell">
+                                            دينــار البحــرين
+                                        </td>
+                                        <td class="column-width table-cell">
+                                            134.0910
+                                        </td>
+                                        <td class="column-width table-cell">
+                                            134.4707
+                                        </td>
+                                </tr>
+                                <tr class="content-height">
+                                        <td class="column-width table-cell">
                                             ريـــال عمـــانى
                                         </td>
                                         <td class="column-width table-cell">
