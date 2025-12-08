@@ -45,13 +45,13 @@
                             </tr>
         		<tr>
 			<th>الأونصة بالدولار</th>
-			<td colspan="2"><b>4197.38</b> دولار
+			<td colspan="2"><b>4213.72</b> دولار
 		</td></tr>
     </tbody>
     <tfoot>
         <tr>
             <td colspan="2">
-                تم تحديث أسعار الذهب في مصر في <time datetime="2025-12-08T00:23:04+0200">الإثنين, 8 ديسمبر, 12:23 صباحًا</time>
+                تم تحديث أسعار الذهب في مصر في <time datetime="2025-12-08T09:59:07+0200">الإثنين, 8 ديسمبر, 09:59 صباحًا</time>
             </td>
         </tr>
     </tfoot>
@@ -71,6 +71,15 @@
 		</tr>
 	</thead>
 	<tbody>
+	<tr>
+		<th align="right">الأحد، 7 ديسمبر</th>
+		<td></td>
+		<td></td>
+		<td>0</td>
+		<td></td>
+		<td></td>
+		<td>⬇️</td>
+	</tr>
 	<tr>
 		<th align="right">السبت، 6 ديسمبر</th>
 		<td>6415</td>
@@ -151,15 +160,6 @@
 		<td>4830</td>
 		<td>200305</td>
 		<td>⬆️</td>
-	</tr>
-	<tr>
-		<th align="right">الخميس، 27 نوفمبر</th>
-		<td>6355</td>
-		<td>5825</td>
-		<td>5560</td>
-		<td>4765</td>
-		<td>197640</td>
-		<td>⬇️</td>
 	</tr>
 	</tbody>
 	<tfoot>
