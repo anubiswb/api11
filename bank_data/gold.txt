@@ -54,13 +54,13 @@
                             </tr>
         		<tr>
 			<th>الأونصة بالدولار</th>
-			<td colspan="3"><b>4338.69</b> دولار
+			<td colspan="3"><b>4338.89</b> دولار
 		</td></tr>
     </tbody>
     <tfoot>
         <tr>
             <td colspan="3">
-                تم تحديث أسعار الذهب في مصر في <time datetime="2025-12-31T00:18:04+0200">الأربعاء, 31 ديسمبر, 12:18 صباحًا</time>
+                تم تحديث أسعار الذهب في مصر في <time datetime="2025-12-31T01:15:20+0200">الأربعاء, 31 ديسمبر, 01:15 صباحًا</time>
             </td>
         </tr>
     </tfoot>
@@ -80,96 +80,97 @@
 		</tr>
 	</thead>
 	<tbody>
-	<tr>
-		<th align="right">الإثنين، 29 ديسمبر</th>
-		<td>6720</td>
-		<td>6160</td>
-		<td>5880</td>
-		<td>5040</td>
-		<td>209015</td>
-		<td>⬇️</td>
-	</tr>
-	<tr>
-		<th align="right">الأحد، 28 ديسمبر</th>
-		<td>6960</td>
-		<td>6380</td>
-		<td>6090</td>
-		<td>5220</td>
-		<td>216480</td>
-		<td>⬆️</td>
-	</tr>
-	<tr>
-		<th align="right">السبت، 27 ديسمبر</th>
-		<td>6935</td>
-		<td>6360</td>
-		<td>6070</td>
-		<td>5205</td>
-		<td>215770</td>
-		<td>⬆️</td>
-	</tr>
-	<tr>
-		<th align="right">الجمعة، 26 ديسمبر</th>
-		<td>6895</td>
-		<td>6320</td>
-		<td>6035</td>
-		<td>5175</td>
-		<td>214525</td>
-		<td>⬆️</td>
-	</tr>
-	<tr>
-		<th align="right">الخميس، 25 ديسمبر</th>
-		<td>6830</td>
-		<td>6260</td>
-		<td>5975</td>
-		<td>5120</td>
-		<td>212390</td>
-		<td>⬆️</td>
-	</tr>
-	<tr>
-		<th align="right">الأربعاء، 24 ديسمبر</th>
-		<td>6825</td>
-		<td>6255</td>
-		<td>5970</td>
-		<td>5115</td>
-		<td>212215</td>
-		<td>⬇️</td>
-	</tr>
-	<tr>
-		<th align="right">الثلاثاء، 23 ديسمبر</th>
-		<td>6835</td>
-		<td>6265</td>
-		<td>5980</td>
-		<td>5125</td>
-		<td>212570</td>
-		<td>⬆️</td>
-	</tr>
-	<tr>
-		<th align="right">الإثنين، 22 ديسمبر</th>
-		<td>6750</td>
-		<td>6185</td>
-		<td>5905</td>
-		<td>5060</td>
-		<td>209905</td>
-		<td>⬆️</td>
-	</tr>
-	<tr>
-		<th align="right">الأحد، 21 ديسمبر</th>
-		<td>6615</td>
-		<td>6065</td>
-		<td>5790</td>
-		<td>4965</td>
-		<td>205815</td>
-		<td>=</td>
-	</tr>
-	<tr>
-		<th align="right">السبت، 20 ديسمبر</th>
-		<td>6615</td>
-		<td>6065</td>
-		<td>5790</td>
-		<td>4965</td>
-		<td>205815</td>
-		<td>=</td>
-	</tr>
+    <tr>
+        <th align="right">الإثنين، 29 ديسمبر</th>
+        <td>6720</td>
+        <td>6160</td>
+        <td>5880</td>
+        <td>5040</td>
+        <td>209015</td>
+        <td>⬇️</td>
+    </tr>
+    <tr>
+        <th align="right">الأحد، 28 ديسمبر</th>
+        <td>6960</td>
+        <td>6380</td>
+        <td>6090</td>
+        <td>5220</td>
+        <td>216480</td>
+        <td>⬆️</td>
+    </tr>
+    <tr>
+        <th align="right">السبت، 27 ديسمبر</th>
+        <td>6935</td>
+        <td>6360</td>
+        <td>6070</td>
+        <td>5205</td>
+        <td>215770</td>
+        <td>⬆️</td>
+    </tr>
+    <tr>
+        <th align="right">الجمعة، 26 ديسمبر</th>
+        <td>6895</td>
+        <td>6320</td>
+        <td>6035</td>
+        <td>5175</td>
+        <td>214525</td>
+        <td>⬆️</td>
+    </tr>
+    <tr>
+        <th align="right">الخميس، 25 ديسمبر</th>
+        <td>6830</td>
+        <td>6260</td>
+        <td>5975</td>
+        <td>5120</td>
+        <td>212390</td>
+        <td>⬆️</td>
+    </tr>
+    <tr>
+        <th align="right">الأربعاء، 24 ديسمبر</th>
+        <td>6825</td>
+        <td>6255</td>
+        <td>5970</td>
+        <td>5115</td>
+        <td>212215</td>
+        <td>⬇️</td>
+    </tr>
+    <tr>
+        <th align="right">الثلاثاء، 23 ديسمبر</th>
+        <td>6835</td>
+        <td>6265</td>
+        <td>5980</td>
+        <td>5125</td>
+        <td>212570</td>
+        <td>⬆️</td>
+    </tr>
+    <tr>
+        <th align="right">الإثنين، 22 ديسمبر</th>
+        <td>6750</td>
+        <td>6185</td>
+        <td>5905</td>
+        <td>5060</td>
+        <td>209905</td>
+        <td>⬆️</td>
+    </tr>
+    <tr>
+        <th align="right">الأحد، 21 ديسمبر</th>
+        <td>6615</td>
+        <td>6065</td>
+        <td>5790</td>
+        <td>4965</td>
+        <td>205815</td>
+        <td>=</td>
+    </tr>
+    <tr>
+        <th align="right">السبت، 20 ديسمبر</th>
+        <td>6615</td>
+        <td>6065</td>
+        <td>5790</td>
+        <td>4965</td>
+        <td>205815</td>
+        <td>=</td>
+    </tr>
+
 	</tbody>
 	<tfoot>
 		<tr>
