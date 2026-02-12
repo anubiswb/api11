@@ -1,1 +1,217 @@
-Error fetching content from the URL.
+<div class="table-container overflow-x-auto">
+                <table class="table-comp layout-auto">
+                        <thead class="bg-primaryIndigo-400">
+                            <tr class="content-height">
+                                        <th class="column-width table-head">
+                                            العملة
+                                        </th>
+                                        <th class="column-width table-head">
+                                            شراء
+                                        </th>
+                                        <th class="column-width table-head">
+                                            بيع
+                                        </th>
+                            </tr>
+                        </thead>
+                    <tbody>
+                                                        <tr class="content-height">
+                                        <td class="column-width table-cell">
+                                            دولار أمريكى
+                                        </td>
+                                        <td class="column-width table-cell">
+                                            46.7848
+                                        </td>
+                                        <td class="column-width table-cell">
+                                            46.9183
+                                        </td>
+                                </tr>
+                                <tr class="content-height">
+                                        <td class="column-width table-cell">
+                                            يورو
+                                        </td>
+                                        <td class="column-width table-cell">
+                                            55.7113
+                                        </td>
+                                        <td class="column-width table-cell">
+                                            55.8750
+                                        </td>
+                                </tr>
+                                <tr class="content-height">
+                                        <td class="column-width table-cell">
+                                            جنيــه إسترليـنى
+                                        </td>
+                                        <td class="column-width table-cell">
+                                            64.0531
+                                        </td>
+                                        <td class="column-width table-cell">
+                                            64.2499
+                                        </td>
+                                </tr>
+                                <tr class="content-height">
+                                        <td class="column-width table-cell">
+                                            دولار كنـدى
+                                        </td>
+                                        <td class="column-width table-cell">
+                                            34.5607
+                                        </td>
+                                        <td class="column-width table-cell">
+                                            34.6618
+                                        </td>
+                                </tr>
+                                <tr class="content-height">
+                                        <td class="column-width table-cell">
+                                            كرون دانمركى
+                                        </td>
+                                        <td class="column-width table-cell">
+                                            7.4576
+                                        </td>
+                                        <td class="column-width table-cell">
+                                            7.4801
+                                        </td>
+                                </tr>
+                                <tr class="content-height">
+                                        <td class="column-width table-cell">
+                                            كرون نرويجى
+                                        </td>
+                                        <td class="column-width table-cell">
+                                            4.9379
+                                        </td>
+                                        <td class="column-width table-cell">
+                                            4.9605
+                                        </td>
+                                </tr>
+                                <tr class="content-height">
+                                        <td class="column-width table-cell">
+                                            كرون ســويدى
+                                        </td>
+                                        <td class="column-width table-cell">
+                                            5.2766
+                                        </td>
+                                        <td class="column-width table-cell">
+                                            5.2929
+                                        </td>
+                                </tr>
+                                <tr class="content-height">
+                                        <td class="column-width table-cell">
+                                            فرنك سويسرى
+                                        </td>
+                                        <td class="column-width table-cell">
+                                            61.0528
+                                        </td>
+                                        <td class="column-width table-cell">
+                                            61.2430
+                                        </td>
+                                </tr>
+                                <tr class="content-height">
+                                        <td class="column-width table-cell">
+                                            100 ين يابانى
+                                        </td>
+                                        <td class="column-width table-cell">
+                                            30.4807
+                                        </td>
+                                        <td class="column-width table-cell">
+                                            30.5696
+                                        </td>
+                                </tr>
+                                <tr class="content-height">
+                                        <td class="column-width table-cell">
+                                            ريـــال سعـــودى
+                                        </td>
+                                        <td class="column-width table-cell">
+                                            12.4743
+                                        </td>
+                                        <td class="column-width table-cell">
+                                            12.5105
+                                        </td>
+                                </tr>
+                                <tr class="content-height">
+                                        <td class="column-width table-cell">
+                                            دينــار كويتى
+                                        </td>
+                                        <td class="column-width table-cell">
+                                            153.3425
+                                        </td>
+                                        <td class="column-width table-cell">
+                                            153.8304
+                                        </td>
+                                </tr>
+                                <tr class="content-height">
+                                        <td class="column-width table-cell">
+                                            درهم اماراتى
+                                        </td>
+                                        <td class="column-width table-cell">
+                                            12.7364
+                                        </td>
+                                        <td class="column-width table-cell">
+                                            12.7745
+                                        </td>
+                                </tr>
+                                <tr class="content-height">
+                                        <td class="column-width table-cell">
+                                            دولار اســـترالى
+                                        </td>
+                                        <td class="column-width table-cell">
+                                            33.2733
+                                        </td>
+                                        <td class="column-width table-cell">
+                                            33.3776
+                                        </td>
+                                </tr>
+                                <tr class="content-height">
+                                        <td class="column-width table-cell">
+                                            دينــار البحــرين
+                                        </td>
+                                        <td class="column-width table-cell">
+                                            124.0844
+                                        </td>
+                                        <td class="column-width table-cell">
+                                            124.4516
+                                        </td>
+                                </tr>
+                                <tr class="content-height">
+                                        <td class="column-width table-cell">
+                                            ريـــال عمـــانى
+                                        </td>
+                                        <td class="column-width table-cell">
+                                            121.5189
+                                        </td>
+                                        <td class="column-width table-cell">
+                                            121.8814
+                                        </td>
+                                </tr>
+                                <tr class="content-height">
+                                        <td class="column-width table-cell">
+                                            ريـــال قطــــرى
+                                        </td>
+                                        <td class="column-width table-cell">
+                                            12.7827
+                                        </td>
+                                        <td class="column-width table-cell">
+                                            12.8543
+                                        </td>
+                                </tr>
+                                <tr class="content-height">
+                                        <td class="column-width table-cell">
+                                            دينـار اردنـى
+                                        </td>
+                                        <td class="column-width table-cell">
+                                            65.8941
+                                        </td>
+                                        <td class="column-width table-cell">
+                                            66.2687
+                                        </td>
+                                </tr>
+                                <tr class="content-height">
+                                        <td class="column-width table-cell">
+                                            يوان صينى
+                                        </td>
+                                        <td class="column-width table-cell">
+                                            6.7698
+                                        </td>
+                                        <td class="column-width table-cell">
+                                            6.7903
+                                        </td>
+                                </tr>
+                    </tbody>
+                </table>
+        </div>
