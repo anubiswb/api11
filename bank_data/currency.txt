@@ -19,10 +19,10 @@
                                             دولار أمريكى
                                         </td>
                                         <td class="column-width table-cell">
-                                            52.2923
+                                            52.2904
                                         </td>
                                         <td class="column-width table-cell">
-                                            52.4303
+                                            52.4283
                                         </td>
                                 </tr>
                                 <tr class="content-height">
@@ -30,10 +30,10 @@
                                             يورو
                                         </td>
                                         <td class="column-width table-cell">
-                                            60.1780
+                                            60.3431
                                         </td>
                                         <td class="column-width table-cell">
-                                            60.3420
+                                            60.5127
                                         </td>
                                 </tr>
                                 <tr class="content-height">
@@ -41,10 +41,10 @@
                                             جنيــه إسترليـنى
                                         </td>
                                         <td class="column-width table-cell">
-                                            69.6742
+                                            69.8338
                                         </td>
                                         <td class="column-width table-cell">
-                                            69.8738
+                                            70.0337
                                         </td>
                                 </tr>
                                 <tr class="content-height">
@@ -52,10 +52,10 @@
                                             دولار كنـدى
                                         </td>
                                         <td class="column-width table-cell">
-                                            38.1640
+                                            38.1737
                                         </td>
                                         <td class="column-width table-cell">
-                                            38.2675
+                                            38.2772
                                         </td>
                                 </tr>
                                 <tr class="content-height">
@@ -63,10 +63,10 @@
                                             كرون دانمركى
                                         </td>
                                         <td class="column-width table-cell">
-                                            8.0528
+                                            8.0756
                                         </td>
                                         <td class="column-width table-cell">
-                                            8.0748
+                                            8.0982
                                         </td>
                                 </tr>
                                 <tr class="content-height">
@@ -74,10 +74,10 @@
                                             كرون نرويجى
                                         </td>
                                         <td class="column-width table-cell">
-                                            5.4234
+                                            5.4468
                                         </td>
                                         <td class="column-width table-cell">
-                                            5.4470
+                                            5.4625
                                         </td>
                                 </tr>
                                 <tr class="content-height">
@@ -85,10 +85,10 @@
                                             كرون ســويدى
                                         </td>
                                         <td class="column-width table-cell">
-                                            5.6101
+                                            5.6176
                                         </td>
                                         <td class="column-width table-cell">
-                                            5.6259
+                                            5.6335
                                         </td>
                                 </tr>
                                 <tr class="content-height">
@@ -96,10 +96,10 @@
                                             فرنك سويسرى
                                         </td>
                                         <td class="column-width table-cell">
-                                            66.4704
+                                            66.5356
                                         </td>
                                         <td class="column-width table-cell">
-                                            66.6628
+                                            66.7196
                                         </td>
                                 </tr>
                                 <tr class="content-height">
@@ -107,10 +107,10 @@
                                             100 ين يابانى
                                         </td>
                                         <td class="column-width table-cell">
-                                            32.8676
+                                            32.8849
                                         </td>
                                         <td class="column-width table-cell">
-                                            32.9584
+                                            32.9738
                                         </td>
                                 </tr>
                                 <tr class="content-height">
@@ -118,10 +118,10 @@
                                             ريـــال سعـــودى
                                         </td>
                                         <td class="column-width table-cell">
-                                            13.9249
+                                            13.9255
                                         </td>
                                         <td class="column-width table-cell">
-                                            13.9632
+                                            13.9645
                                         </td>
                                 </tr>
                                 <tr class="content-height">
@@ -129,10 +129,10 @@
                                             دينــار كويتى
                                         </td>
                                         <td class="column-width table-cell">
-                                            170.4164
+                                            170.5213
                                         </td>
                                         <td class="column-width table-cell">
-                                            170.9219
+                                            171.0269
                                         </td>
                                 </tr>
                                 <tr class="content-height">
@@ -140,10 +140,10 @@
                                             درهم اماراتى
                                         </td>
                                         <td class="column-width table-cell">
-                                            14.2354
+                                            14.2353
                                         </td>
                                         <td class="column-width table-cell">
-                                            14.2788
+                                            14.2786
                                         </td>
                                 </tr>
                                 <tr class="content-height">
@@ -151,10 +151,10 @@
                                             دولار اســـترالى
                                         </td>
                                         <td class="column-width table-cell">
-                                            37.0439
+                                            37.1366
                                         </td>
                                         <td class="column-width table-cell">
-                                            37.1469
+                                            37.2451
                                         </td>
                                 </tr>
                                 <tr class="content-height">
@@ -162,10 +162,10 @@
                                             دينــار البحــرين
                                         </td>
                                         <td class="column-width table-cell">
-                                            138.4126
+                                            138.3892
                                         </td>
                                         <td class="column-width table-cell">
-                                            138.9618
+                                            138.9381
                                         </td>
                                 </tr>
                                 <tr class="content-height">
@@ -173,10 +173,10 @@
                                             ريـــال عمـــانى
                                         </td>
                                         <td class="column-width table-cell">
-                                            135.8065
+                                            135.8015
                                         </td>
                                         <td class="column-width table-cell">
-                                            136.2002
+                                            136.1951
                                         </td>
                                 </tr>
                                 <tr class="content-height">
@@ -184,10 +184,10 @@
                                             ريـــال قطــــرى
                                         </td>
                                         <td class="column-width table-cell">
-                                            14.2875
+                                            14.2870
                                         </td>
                                         <td class="column-width table-cell">
-                                            14.3645
+                                            14.3639
                                         </td>
                                 </tr>
                                 <tr class="content-height">
@@ -195,10 +195,10 @@
                                             دينـار اردنـى
                                         </td>
                                         <td class="column-width table-cell">
-                                            73.6511
+                                            73.6484
                                         </td>
                                         <td class="column-width table-cell">
-                                            74.0541
+                                            74.0513
                                         </td>
                                 </tr>
                                 <tr class="content-height">
@@ -206,10 +206,10 @@
                                             يوان صينى
                                         </td>
                                         <td class="column-width table-cell">
-                                            7.5925
+                                            7.6079
                                         </td>
                                         <td class="column-width table-cell">
-                                            7.6137
+                                            7.6286
                                         </td>
                                 </tr>
                     </tbody>
